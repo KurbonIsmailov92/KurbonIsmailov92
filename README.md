@@ -5,8 +5,9 @@
 
 ## 🛠️ Technologies & Tools
 
-![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-474a8a?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-3e2c00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
