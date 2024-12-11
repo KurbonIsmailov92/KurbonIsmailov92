@@ -16,7 +16,6 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KurbonIsmailov92&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurbonIsmailov92&layout=compact&theme=apprentice)
 
 
